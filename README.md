@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>🛡️ yngSDA (Steam Desktop Authenticator)</h1>
+  <img src="icon.png" width="100" height="100" />
+<h1>yngSDA (Steam Desktop Authenticator)</h1>
   <p><b>A modern, lightweight, and secure desktop authenticator for Steam.</b></p>
 
   [![Version](https://img.shields.io/badge/version-v0.1--beta-blue.svg)](#)
